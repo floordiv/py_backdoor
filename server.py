@@ -2,7 +2,7 @@ import socket
 import base64
 
 # Задаем адрес сервера
-SERVER_ADDRESS = ('localhost', 12397)
+SERVER_ADDRESS = ('localhost', 12391)
 
 # Настраиваем сокет
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
